@@ -1,7 +1,7 @@
 🌍 IP Address Tracker
 A simple and modern web application to track and visualize the location of an IP address using a map.
 
-![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
+![Design preview for the IP address tracker coding challenge](./design/Preview_website.png)
 
 ## Welcome! 👋
 
