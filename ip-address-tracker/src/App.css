@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+.bgIMG {
+    background-image: url('./assets/pattern-bg-desktop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+}
+
+@media (max-width: 768px) {
+    .bgIMG {
+        background-image: url('./assets/pattern-bg-mobile.png');
+    }
+}
