@@ -90,4 +90,4 @@ UI improvements for mobile
 
 As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
 
-- [Vercel]([https://vercel.com/](https://ip-tracker-phi-flax.vercel.app/))
+- [Vercel]([https://ip-tracker-orpin-gamma.vercel.app/])
